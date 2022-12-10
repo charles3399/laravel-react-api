@@ -4,6 +4,7 @@
 /public/storage
 /storage/*.key
 /vendor
+/view-react/node_modules
 .env
 .env.backup
 .env.production
